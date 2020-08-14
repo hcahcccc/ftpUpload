@@ -6,7 +6,7 @@
 
   <groupId>com.soto</groupId>
   <artifactId>ftpUpload</artifactId>
-  <version>hc_1.0-SNAPSHOT</version>
+  <version>1.0-SNAPSHOT-dev</version>
 
   <name>ftpUpload</name>
   <!-- FIXME change it to the project's website -->
